@@ -8,17 +8,32 @@
 
 <p>
     Nesta documentação vamos entender por tras da linguagem JavaScript como funciona seus paramentros, assim como funciona suas ferramentas e declarações usando seu principal paradigma funcional.
+    JavaScript é uma linguagem multiparadigma, ou seja, é uma linguagem que funciona de forma diferente de acordo com o paradigma que ela se encontra. Que sao os paradigmas:
+
+* *Funcional*
+* *Orientado a Objeto*
+* *Procedural*
+</p>
+
+<p>
+
 </p>
 
 ### Topicos de Estudos
 
 [Entendendo JavaScript](https://medium.com/tableless/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b)
 
-### Conclusões
+### Artigos
 
-<p>
-    Deserunt exercitation adipisicing qui veniam excepteur cillum irure quis nulla dolor amet velit laboris. Veniam ad commodo cillum anim do do adipisicing eiusmod incididunt ea excepteur officia. Officia veniam amet quis fugiat Lorem velit nostrud sit exercitation elit.
-</p>
+Topicos importantes para aprender JavaScript funcional:
+<ul>
+    <li>Quais as vantagens de usar a programação funcional</li>
+    <li>Como usá-la tanto em ES5 quanto ES6</li>
+    <li>O que são Pure <strong>Functions e Higher-Order Functions </strong> </li>
+    <li>O que é Currying</li>
+    <li>Qual a diferença entre Map, Filter e Reduce</li>
+    <li>Como compor funcões de maneira eficaz</li>
+</ul>
 
 ---
 
@@ -26,4 +41,3 @@
 Desenvolvedor Software <br>
 
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cmsoouza)
-# jsfuncional
